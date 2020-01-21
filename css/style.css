@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+ .teste:hover path {
+    fill: #ffff;
+  }
+ 
+@media screen and (min-width: 360px) and (max-width: 600px)
+{
+    #menuNav{
+        width: 60%;
+    }
+    a{
+        font-size: 80%;
+    }
+    
+    .foot{
+        font-size: 2vw;
+        margin-left: 10%;
+    }
+       
+}

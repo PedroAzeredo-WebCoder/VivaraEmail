@@ -1,0 +1,16 @@
+{
+    "name": "pedro/projeto-share-prime",
+    "description": "Processo seletivo para a vaga de front end.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro da Silveira Azeredo",
+            "email": "pedro.azeredo93@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "4.1.3"
+    }
+}
